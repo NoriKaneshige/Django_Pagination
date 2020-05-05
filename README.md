@@ -1,6 +1,6 @@
 # Django_Pagination
 
-[referred blog](https://narito.ninja/blog/detail/90/)
+[referred blog](https://narito.ninja/blog/detail/89/)
 
 ![pagination](pagination.gif)
 
