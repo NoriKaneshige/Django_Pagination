@@ -37,7 +37,14 @@ class PostIndex(generic.ListView):
 
 > ## urls.py
 ``` python
+from django.urls import path
+from . import views
 
+app_name = 'app'
+
+urlpatterns = [
+    path('', views.PostIndex.as_view(), name='post_list'), 
+]
 ```
 
 > ## post_list.html
