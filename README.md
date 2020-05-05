@@ -78,8 +78,6 @@ urlpatterns = [
 
 > ## page.html
 ``` python
-
-<body>
 <!-- the simplest format -->
 
 <!-- previous -->
